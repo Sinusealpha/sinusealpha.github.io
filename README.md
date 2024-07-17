@@ -1,9 +1,9 @@
 hi there! :)
 
 ## about
-i'm sina. curious 22 yo from tehran, iran. co-founder and executive member at MedX, a 4th-year medical student, and a mba graduate.
-i'm interested in startups, design, coding, math and humans.
-i love building, reading books and writing.
+i'm sina. curious 22 yo from tehran, iran. co-founder and executive member at MedX, a 4th-year medical student, and a mba graduate. i 24/7 follow my curiosities!
+i'm interested in startups, design, coding, math, and humans.
+i love building, reading books, and writing.
 you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) or you can [book a free 30 min meeting](https://calendly.com/sinusealpha/30minmeeting) to discuss about potential collaborations or anything i can help you with.
 
 
