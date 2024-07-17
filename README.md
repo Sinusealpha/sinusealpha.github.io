@@ -1,18 +1,18 @@
 hi there! :)
 
-### about
+## about
 i'm sina. 22. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate.
 i'm interested in startups, design, coding, math and humans.
-you can find me on [x(formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) or you can [book a 30 min free meeting](https://calendly.com/sinusealpha/30minmeeting) to discuss about potential collaborations or anything i can help you with.
+you can find me on [x(formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) or you can [book a free 30 min meeting](https://calendly.com/sinusealpha/30minmeeting) to discuss about potential collaborations or anything i can help you with.
 
 
-### featured projects
+## featured projects
 - [the intelligent investor book reading group](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U) (a playlist on youtube)
 - [30D podcast](https://t.me/Podcast30D) (a podcast to introduce the most valuable books on design and innovation (first season))
 - [simple thoracentesis analyzer](https://github.com/Sinusealpha/PleuralEffusionProject) (a program for physicians)
   
 
-### featured talks and presentations
+## featured talks and presentations
 
 - march 2024, "networking and linkedIn for healthcare students and professionals" (persian talk) - [audio](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view), [slides](https://t.me/Sinusealpha_Channel/385)
 - march 2024, "the most recent AI progresses with a focus on medical-related works" (persian talk) - [video](https://youtu.be/_bytJDC1wr0?si=ZtFHAipwo83D40po), [slides](https://t.me/Sinusealpha_Channel/381)
@@ -21,7 +21,7 @@ you can find me on [x(formerly twitter)](https://x.com/sinamoradi2002), [linkedi
 - july 2023, "introduction to telemedicine and telehealth for medical students" (persian journal club) - [video](https://youtu.be/v6qWR03x_TE?si=-3IqabxCi3mhvyEJ), [slides](https://t.me/Sinusealpha_Channel/229)
 
 
-### featured writings
+## featured writings
 i write a lot! both in persian and in english. you can read my favorite writings by clicking on the following links.
 
 **[substack (english)](https://sinamoradi.substack.com/)**
