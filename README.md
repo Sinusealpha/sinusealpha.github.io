@@ -1,10 +1,11 @@
 hi there! :)
 
 ### about
-i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate. you can find me on [linkedin](https://www.linkedin.com/in/sinusealpha/), [x](https://x.com/sinamoradi2002), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) and set a [30 min free meeting](https://calendly.com/sinusealpha/30minmeeting).
+i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate. you can find me on [x](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) and set a [30 min free meeting](https://calendly.com/sinusealpha/30minmeeting).
 
 
 ### featured projects
+- [the intelligent investor book reading group](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U) (a playlist on youtube)
 - [30D podcast](https://t.me/Podcast30D) (a podcast to introduce the most valuable books on design and innovation (first season))
 - [pleural effusion](https://github.com/Sinusealpha/PleuralEffusionProject) (a simple analyzer of thoracentesis test for physicians)
   
