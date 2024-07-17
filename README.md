@@ -4,11 +4,11 @@ hi there! :)
 i'm sina. co-founder and ceo at MedX, 4th-year medical student, and a mba graduate. you can find me on [linkedin](https://www.linkedin.com/in/sinusealpha/) and [x](https://x.com/sinamoradi2002). and you can cantact me directly at sina80mor@gmail.com.
 
 
-### projects
+### featured projects
 - [pleural effusion](https://github.com/Sinusealpha/PleuralEffusionProject) (a simple analyzer of thoracentesis test for physicians)
 - [30D podcast](https://t.me/Podcast30D) (a podcast to introduce the most valuable books on design and innovation (first season))
 
-### writings
+### featured writings
 i write a lot! both in persian and in english. you can read my favorite writings by clicking on the following links.
 
 **[substack](https://sinamoradi.substack.com/)**
@@ -38,7 +38,7 @@ i write a lot! both in persian and in english. you can read my favorite writings
 - apr 1, 2023 - [First-principle thinking](https://www.linkedin.com/pulse/note1-first-principle-thinking-sina-moradi/?trackingId=806XS1Y6RIm%2F8kP1PBKKog%3D%3D)
 
 
-### talks
+### featured talks
 
 
-### interesting links
+### other interesting links
