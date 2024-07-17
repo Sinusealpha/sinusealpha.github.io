@@ -1,11 +1,12 @@
-hi there, this is sina.
+hi there! :)
 
 ### about
 i'm sina. co-founder and ceo at MedX, 4th-year medical student, and a mba graduate. you can find me on [linkedin](https://www.linkedin.com/in/sinusealpha/) and [x](https://x.com/sinamoradi2002). and you can cantact me directly at sina80mor@gmail.com.
 
 
 ### projects
-
+- [pleural effusion](https://github.com/Sinusealpha/PleuralEffusionProject) (a simple analyzer of thoracentesis test for physicians)
+- [30D podcast](https://t.me/Podcast30D) (a podcast to introduce the most valuable books on design and innovation (first season))
 
 ### writings
 i write a lot! both in persian and in english. you can read my favorite writings by clicking on the following links.
