@@ -7,7 +7,7 @@ i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba grad
 ### featured projects
 - [the intelligent investor book reading group](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U) (a playlist on youtube)
 - [30D podcast](https://t.me/Podcast30D) (a podcast to introduce the most valuable books on design and innovation (first season))
-- [pleural effusion](https://github.com/Sinusealpha/PleuralEffusionProject) (a simple analyzer of thoracentesis test for physicians)
+- [simple thoracentesis analyzer](https://github.com/Sinusealpha/PleuralEffusionProject) (a simple program for physicians)
   
 
 ### featured writings
