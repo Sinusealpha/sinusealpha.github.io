@@ -1,7 +1,7 @@
 hi there! :)
 
 ### about
-i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate. you can find me on [x](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) and set a [30 min free meeting](https://calendly.com/sinusealpha/30minmeeting).
+i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate. you can find me on [x](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) or set a [30 min free meeting](https://calendly.com/sinusealpha/30minmeeting) for talking.
 
 
 ### featured projects
@@ -14,6 +14,7 @@ i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba grad
 i write a lot! both in persian and in english. you can read my favorite writings by clicking on the following links.
 
 **[substack](https://sinamoradi.substack.com/)**
+'''
 - jun 19, 2024 - ["you are good for your age"](https://sinamoradi.substack.com/p/you-are-good-for-your-age)
 - may 31, 2024 - [a moon or a candle?](https://sinamoradi.substack.com/p/a-moon-or-a-candle)
 - apr 17, 2024 - [The best advice I heard about university!](https://sinamoradi.substack.com/p/the-best-advice-i-heard-about-university)
@@ -21,6 +22,7 @@ i write a lot! both in persian and in english. you can read my favorite writings
 - feb 17, 2024 - [prejudice = underfitting](https://sinamoradi.substack.com/p/prejudice-under-fitting)
 - feb 9, 2024 - [unlearning is not my thing](https://www.linkedin.com/pulse/customer-obsession-sina-moradi/?trackingId=f%2BugfnuiShO%2FPIrIppkJ0w%3D%3D)
 - jan 21, 2024 - [what is our problem?](https://sinamoradi.substack.com/p/what-is-our-problem)
+'''
 
 **[medium](https://medium.com/@Sinusealpha)**
 - may 25, 2023 - [design-driven innovation: how chatGPT and other historical breakthroughs were born?](https://medium.com/design-bootcamp/design-driven-innovation-how-chatgpt-and-other-breakthroughs-were-born-3fb67547254f)
