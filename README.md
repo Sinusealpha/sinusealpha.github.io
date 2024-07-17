@@ -14,7 +14,6 @@ i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba grad
 i write a lot! both in persian and in english. you can read my favorite writings by clicking on the following links.
 
 **[substack](https://sinamoradi.substack.com/)**
-'''
 - jun 19, 2024 - ["you are good for your age"](https://sinamoradi.substack.com/p/you-are-good-for-your-age)
 - may 31, 2024 - [a moon or a candle?](https://sinamoradi.substack.com/p/a-moon-or-a-candle)
 - apr 17, 2024 - [The best advice I heard about university!](https://sinamoradi.substack.com/p/the-best-advice-i-heard-about-university)
@@ -22,7 +21,6 @@ i write a lot! both in persian and in english. you can read my favorite writings
 - feb 17, 2024 - [prejudice = underfitting](https://sinamoradi.substack.com/p/prejudice-under-fitting)
 - feb 9, 2024 - [unlearning is not my thing](https://www.linkedin.com/pulse/customer-obsession-sina-moradi/?trackingId=f%2BugfnuiShO%2FPIrIppkJ0w%3D%3D)
 - jan 21, 2024 - [what is our problem?](https://sinamoradi.substack.com/p/what-is-our-problem)
-'''
 
 **[medium](https://medium.com/@Sinusealpha)**
 - may 25, 2023 - [design-driven innovation: how chatGPT and other historical breakthroughs were born?](https://medium.com/design-bootcamp/design-driven-innovation-how-chatgpt-and-other-breakthroughs-were-born-3fb67547254f)
@@ -30,7 +28,6 @@ i write a lot! both in persian and in english. you can read my favorite writings
 - sep 2, 2022 - [my journey, part 1: how i found my passion after 2-years of wandering in medical school](https://medium.com/@Sinusealpha/my-journey-part-1-how-i-found-my-passion-after-2-years-of-wandering-in-medical-school-a28b2fe084b4?source=user_profile---------4----------------------------)
 
 **[linkedin newsletter](https://www.linkedin.com/newsletters/sina-moradi-s-notes-7046112972418510848/)**
-
 - sep 11, 2023 - [Customer Obsession!](https://www.linkedin.com/pulse/customer-obsession-sina-moradi/?trackingId=f%2BugfnuiShO%2FPIrIppkJ0w%3D%3D)
 - jul 25, 2023 - [Push or Pull?](https://www.linkedin.com/pulse/note-3-push-pull-sina-moradi/?trackingId=uHpB2EZMTDiOgMJO%2F6D3Tg%3D%3D)
 - jul 3, 2023 - [The big why!](https://www.linkedin.com/pulse/note-2-big-why-sina-moradi/?trackingId=FNNquNV4Q%2FqcbTK%2Fo7fG3Q%3D%3D)
@@ -43,6 +40,14 @@ i write a lot! both in persian and in english. you can read my favorite writings
 
 
 ### featured talks
+
+- march 2024, networking and linkedIn for healthcare students and professionals (talk) - [audio](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view), [slides](https://t.me/Sinusealpha_Channel/385)
+- march 2024, the most recent AI progresses with a focus on medical-related works (talk) - [video](https://youtu.be/_bytJDC1wr0?si=ZtFHAipwo83D40po), [slides](https://t.me/Sinusealpha_Channel/381)
+- october 2023, a brief and simplified introduction to transformers and their application in healthcare (journal club) - [video](https://youtu.be/qkzDr-O1f70?si=CQtxkNGP-hrpO-se), [slides](https://t.me/Sinusealpha_Channel/280)
+- september 2023, a brief introduction to uncertainty quantification in radiological images (journal club) - [video](https://youtu.be/h7exzh57kPM?si=UK1yfFhItidT-6SY), [slides](https://t.me/Sinusealpha_Channel/278)
+- july 2023, introduction to telemedicine and telehealth for medical students (journal club) - [video](https://youtu.be/v6qWR03x_TE?si=-3IqabxCi3mhvyEJ), [slides](https://t.me/Sinusealpha_Channel/229)
+
+
 
 
 ### other interesting links
