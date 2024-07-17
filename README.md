@@ -1,7 +1,7 @@
 hi there, this is sina.
 
 ### about
-i'm sina. co-founder and ceo at MedX, 4th-year medical student, and a mba graduate.
+i'm sina. co-founder and ceo at MedX, 4th-year medical student, and a mba graduate. you can find me on [linkedin](https://www.linkedin.com/in/sinusealpha/) and [x](https://x.com/sinamoradi2002). and you can cantact me directly at sina80mor@gmail.com.
 
 
 ### projects
