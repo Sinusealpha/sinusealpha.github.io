@@ -1,3 +1,2 @@
-# sinusealpha.github.io
+hi there, this is sina.
 
-this is my personal website
