@@ -3,7 +3,8 @@ hi there! :)
 ## about
 i'm sina. curious 22yo from tehran, iran. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate.
 i'm interested in startups, design, coding, math and humans.
-you can find me on [x(formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) or you can [book a free 30 min meeting](https://calendly.com/sinusealpha/30minmeeting) to discuss about potential collaborations or anything i can help you with.
+i love building, reading books and writing.
+you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) or you can [book a free 30 min meeting](https://calendly.com/sinusealpha/30minmeeting) to discuss about potential collaborations or anything i can help you with.
 
 
 ## featured projects
@@ -14,15 +15,15 @@ you can find me on [x(formerly twitter)](https://x.com/sinamoradi2002), [linkedi
 
 ## featured talks and presentations
 
-- march 2024, "networking and linkedIn for healthcare students and professionals" (persian talk) - [audio](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view), [slides](https://t.me/Sinusealpha_Channel/385)
-- march 2024, "the most recent AI progresses with a focus on medical-related works" (persian talk) - [video](https://youtu.be/_bytJDC1wr0?si=ZtFHAipwo83D40po), [slides](https://t.me/Sinusealpha_Channel/381)
-- october 2023, "a brief and simplified introduction to transformers and their application in healthcare" (persian journal club) - [video](https://youtu.be/qkzDr-O1f70?si=CQtxkNGP-hrpO-se), [slides](https://t.me/Sinusealpha_Channel/280)
-- september 2023, "introduction to uncertainty quantification in radiological images" (persian journal club) - [video](https://youtu.be/h7exzh57kPM?si=UK1yfFhItidT-6SY), [slides](https://t.me/Sinusealpha_Channel/278)
-- july 2023, "introduction to telemedicine and telehealth for medical students" (persian journal club) - [video](https://youtu.be/v6qWR03x_TE?si=-3IqabxCi3mhvyEJ), [slides](https://t.me/Sinusealpha_Channel/229)
+- march 2024, "networking and linkedIn for healthcare students and professionals" (persian talk) - [audio](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view), [slides](https://t.me/Sinusealpha_Channel/385).
+- march 2024, "the most recent AI progresses with a focus on medical-related works" (persian talk) - [video](https://youtu.be/_bytJDC1wr0?si=ZtFHAipwo83D40po), [slides](https://t.me/Sinusealpha_Channel/381).
+- october 2023, "a brief and simplified introduction to transformers and their application in healthcare" (persian journal club) - [video](https://youtu.be/qkzDr-O1f70?si=CQtxkNGP-hrpO-se), [slides](https://t.me/Sinusealpha_Channel/280).
+- september 2023, "introduction to uncertainty quantification in radiological images" (persian journal club) - [video](https://youtu.be/h7exzh57kPM?si=UK1yfFhItidT-6SY), [slides](https://t.me/Sinusealpha_Channel/278).
+- july 2023, "introduction to telemedicine and telehealth for medical students" (persian journal club) - [video](https://youtu.be/v6qWR03x_TE?si=-3IqabxCi3mhvyEJ), [slides](https://t.me/Sinusealpha_Channel/229).
 
 
 ## featured writings
-i write a lot! about what i think and experienced. both in persian and in English. you can read some of my writings by clicking on the following links.
+i write a lot! about what i think and what i've experienced. both in persian and in English. you can read some of my writings by clicking on the following links.
 
 **[substack (english)](https://sinamoradi.substack.com/)**
 - jun 19, 2024 - ["you are good for your age"](https://sinamoradi.substack.com/p/you-are-good-for-your-age)
