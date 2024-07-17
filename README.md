@@ -18,14 +18,15 @@ sep 2, 2022 | [my journey, part 1: how i found my passion after 2-years of wande
 
 #### linkedin newsletter
 
-
-
-date | zero to one series
-apr 29. 2023 | [Note 5: Purpose](https://www.linkedin.com/pulse/note-5-purpose-sina-moradi/?trackingId=9myldRoCQXC9lEtc0DK9ww%3D%3D)
-apr 22, 2023 | [Note 4: Design Thinking](https://www.linkedin.com/pulse/note-4-design-thinking-sina-moradi/?trackingId=vt8odbELTlm8wTUgp96AMA%3D%3D)
-apr 15, 2023 | [Note 3: Exponential thinking](https://www.linkedin.com/pulse/note-3-exponential-thinking-sina-moradi/?trackingId=J2gIToM4T3Gmnr%2BuUYYfRg%3D%3D)
-apr 8, 2023 | [Note 2: Mission](https://www.linkedin.com/pulse/note-2-mission-sina-moradi/?trackingId=mEXbVQFUSu2aWX2%2FCC00zg%3D%3D)
-apr 1, 2023 | [Note 1: First-principle thinking](https://www.linkedin.com/pulse/note1-first-principle-thinking-sina-moradi/?trackingId=806XS1Y6RIm%2F8kP1PBKKog%3D%3D)
+sep 11, 2023 | [Customer Obsession!](https://www.linkedin.com/pulse/customer-obsession-sina-moradi/?trackingId=f%2BugfnuiShO%2FPIrIppkJ0w%3D%3D)
+july 25, 2023 | [Push or Pull?](https://www.linkedin.com/pulse/note-3-push-pull-sina-moradi/?trackingId=uHpB2EZMTDiOgMJO%2F6D3Tg%3D%3D)
+july 3, 2023 | [The big why!](https://www.linkedin.com/pulse/note-2-big-why-sina-moradi/?trackingId=FNNquNV4Q%2FqcbTK%2Fo7fG3Q%3D%3D)
+june 26, 2023 | [Introduction to Platform Thinking](https://www.linkedin.com/pulse/note-1-introduction-platform-thinking-sina-moradi/?trackingId=XghZDz6yQv2FXKqxWz1iWg%3D%3D)
+apr 29. 2023 | [Purpose](https://www.linkedin.com/pulse/note-5-purpose-sina-moradi/?trackingId=9myldRoCQXC9lEtc0DK9ww%3D%3D)
+apr 22, 2023 | [Design Thinking](https://www.linkedin.com/pulse/note-4-design-thinking-sina-moradi/?trackingId=vt8odbELTlm8wTUgp96AMA%3D%3D)
+apr 15, 2023 | [Exponential thinking](https://www.linkedin.com/pulse/note-3-exponential-thinking-sina-moradi/?trackingId=J2gIToM4T3Gmnr%2BuUYYfRg%3D%3D)
+apr 8, 2023 | [Mission](https://www.linkedin.com/pulse/note-2-mission-sina-moradi/?trackingId=mEXbVQFUSu2aWX2%2FCC00zg%3D%3D)
+apr 1, 2023 | [First-principle thinking](https://www.linkedin.com/pulse/note1-first-principle-thinking-sina-moradi/?trackingId=806XS1Y6RIm%2F8kP1PBKKog%3D%3D)
 
 
 ### talks
