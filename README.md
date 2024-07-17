@@ -11,7 +11,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 - [the intelligent investor book reading group](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U) (a playlist on youtube)
 - [30D podcast](https://t.me/Podcast30D) (a podcast to introduce the most valuable books on design and innovation (first season)) / +3k listens
 - [simple thoracentesis analyzer](https://github.com/Sinusealpha/PleuralEffusionProject) (a program for physicians)
-- [sina moradi's notes](https://www.linkedin.com/newsletters/7046112972418510848/) (a linkedin newsletter on entrepreneurship) / +1.7k subs
+- [sina moradi's notes](https://www.linkedin.com/newsletters/7046112972418510848/) (a linkedin newsletter on entrepreneurship) / +1.5k subs
   
 
 ## featured talks and presentations
