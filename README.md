@@ -42,14 +42,10 @@ i write a lot! about what i think and what i've experienced. both in persian and
 
 **[linkedin newsletter (english)](https://www.linkedin.com/newsletters/sina-moradi-s-notes-7046112972418510848/)**
 - sep 11, 2023 - [customer obsession!](https://www.linkedin.com/pulse/customer-obsession-sina-moradi/?trackingId=f%2BugfnuiShO%2FPIrIppkJ0w%3D%3D)
-- jul 25, 2023 - [push or pull?](https://www.linkedin.com/pulse/note-3-push-pull-sina-moradi/?trackingId=uHpB2EZMTDiOgMJO%2F6D3Tg%3D%3D)
-- jul 03, 2023 - [the big why!](https://www.linkedin.com/pulse/note-2-big-why-sina-moradi/?trackingId=FNNquNV4Q%2FqcbTK%2Fo7fG3Q%3D%3D)
-- jun 26, 2023 - [introduction to platform thinking.](https://www.linkedin.com/pulse/note-1-introduction-platform-thinking-sina-moradi/?trackingId=XghZDz6yQv2FXKqxWz1iWg%3D%3D)
-- apr 29. 2023 - [purpose.](https://www.linkedin.com/pulse/note-5-purpose-sina-moradi/?trackingId=9myldRoCQXC9lEtc0DK9ww%3D%3D)
-- apr 22, 2023 - [design thinking.](https://www.linkedin.com/pulse/note-4-design-thinking-sina-moradi/?trackingId=vt8odbELTlm8wTUgp96AMA%3D%3D)
-- apr 15, 2023 - [exponential thinking.](https://www.linkedin.com/pulse/note-3-exponential-thinking-sina-moradi/?trackingId=J2gIToM4T3Gmnr%2BuUYYfRg%3D%3D)
-- apr 08, 2023 - [mission.](https://www.linkedin.com/pulse/note-2-mission-sina-moradi/?trackingId=mEXbVQFUSu2aWX2%2FCC00zg%3D%3D)
-- apr 01, 2023 - [first-principle thinking.](https://www.linkedin.com/pulse/note1-first-principle-thinking-sina-moradi/?trackingId=806XS1Y6RIm%2F8kP1PBKKog%3D%3D)
+* | jul 03, 2023 - [the big why!](https://www.linkedin.com/pulse/note-2-big-why-sina-moradi/?trackingId=FNNquNV4Q%2FqcbTK%2Fo7fG3Q%3D%3D) | jul 25, 2023 - [push or pull?](https://www.linkedin.com/pulse/note-3-push-pull-sina-moradi/?trackingId=uHpB2EZMTDiOgMJO%2F6D3Tg%3D%3D)
+* | apr 29. 2023 - [purpose.](https://www.linkedin.com/pulse/note-5-purpose-sina-moradi/?trackingId=9myldRoCQXC9lEtc0DK9ww%3D%3D) | jun 26, 2023 - [introduction to platform thinking.](https://www.linkedin.com/pulse/note-1-introduction-platform-thinking-sina-moradi/?trackingId=XghZDz6yQv2FXKqxWz1iWg%3D%3D)
+* | apr 15, 2023 - [exponential thinking.](https://www.linkedin.com/pulse/note-3-exponential-thinking-sina-moradi/?trackingId=J2gIToM4T3Gmnr%2BuUYYfRg%3D%3D) | apr 22, 2023 - [design thinking.](https://www.linkedin.com/pulse/note-4-design-thinking-sina-moradi/?trackingId=vt8odbELTlm8wTUgp96AMA%3D%3D)
+* | apr 01, 2023 - [first-principle thinking.](https://www.linkedin.com/pulse/note1-first-principle-thinking-sina-moradi/?trackingId=806XS1Y6RIm%2F8kP1PBKKog%3D%3D) | apr 08, 2023 - [mission.](https://www.linkedin.com/pulse/note-2-mission-sina-moradi/?trackingId=mEXbVQFUSu2aWX2%2FCC00zg%3D%3D)
 
 **[virgool (persian)](https://virgool.io/@sinusealpha)**
 - nov 2023 - mba experiences ([part1](https://virgool.io/@sinusealpha/%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-%D8%AE%D9%88%D8%A7%D9%86%D8%AF%D9%86-mba-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%88-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-ox5nic5qhqdu), [part2](https://virgool.io/@sinusealpha/%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-mba-%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D9%85-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AE%D9%88%D8%AF%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-mba-g3muvycfqicm), [part3](https://virgool.io/@sinusealpha/%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-%D8%AE%D9%88%D8%A7%D9%86%D8%AF%D9%86-mba-%D8%A8%D8%AE%D8%B4-%D8%B3%D9%88%D9%85-%D9%85%D9%86%D8%A7%D8%A8%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-mhjckugilin7)).
