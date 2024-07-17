@@ -1,7 +1,7 @@
 hi there! :)
 
 ### about
-i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate. you can find me on [linkedin](https://www.linkedin.com/in/sinusealpha/) and [x](https://x.com/sinamoradi2002), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) and set a 30 min free meeting.
+i'm sina. co-founder and ceo at MedX, a 4th-year medical student, and a mba graduate. you can find me on [linkedin](https://www.linkedin.com/in/sinusealpha/), [x](https://x.com/sinamoradi2002), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha). and you can contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) and set a [30 min free meeting](https://calendly.com/sinusealpha/30minmeeting).
 
 
 ### featured projects
