@@ -59,7 +59,7 @@ i write a lot! about what i think and what i've experienced. both in persian and
 
 
 ## bookshelf
-many people ask me about the books i read. i talked about some of them in the first season of 30D podcast and here, as a digital bookshelf, i'm gonna write about the books i read. especially about the ones that i think are valuable for others. i will link any of them to a telegram channel where i write notes on them. i'm also trying to update this list as frequently as possible.
+many people ask me about the books i read. i talked about some of them in the first season of [30D podcast](https://t.me/Podcast30D) and here, as a digital bookshelf, i'm gonna write about the books i read. especially about the ones that i think are valuable for others. i will link any of them to [a telegram channel](https://t.me/sinusealpha_library) where i write notes on them. i'm also trying to update this list as frequently as possible.
 - the beginning of infinity, david deutsch
 - ...
 
