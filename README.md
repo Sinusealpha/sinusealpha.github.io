@@ -58,3 +58,9 @@ i write a lot! about what i think and what i've experienced. both in persian and
 - dec 2022 - [what is chatgpt?](https://virgool.io/@sinusealpha/%D9%85%D8%AF%D9%84-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-chatgpt-%DA%86%DB%8C%D8%B3%D8%AA-%D8%A2%DB%8C%D8%A7-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA-c9mnlbkeuyns) (this was the first persian content about chatgpt and [here](https://t.me/Sinusealpha_Channel/296) you can read its writing story).
 
 
+## bookshelf
+many people ask me about the books i read. i talked about some of them in the first season of 30D podcast and here, as a digital bookshelf, i'm gonna write about the books i read. especially about the ones that i think are valuable for others. i will link any of them to a telegram channel where i write notes on them. i'm also trying to update this list as frequently as possible.
+- the beginning of infinity, david deutsch
+- ...
+
+
