@@ -26,7 +26,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 ## featured writings
 i write a lot! about what i think and what i've experienced. both in persian and in English. you can read some of my writings by clicking on the following links.
 
-**[substack (english)](https://sinamoradi.substack.com/)**
+**[substack (english)](https://sinamoradi.substack.com/)** i routinely write here! :)
 - jun 19, 2024 - ["you are good for your age"](https://sinamoradi.substack.com/p/you-are-good-for-your-age)
 - may 31, 2024 - [a moon or a candle?](https://sinamoradi.substack.com/p/a-moon-or-a-candle)
 - apr 17, 2024 - [The best advice i heard about university!](https://sinamoradi.substack.com/p/the-best-advice-i-heard-about-university)
