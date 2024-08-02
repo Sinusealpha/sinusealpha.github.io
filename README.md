@@ -24,11 +24,11 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 [[audio]](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view) [[slides]](https://t.me/Sinusealpha_Channel/385)
 - mar 2024, "the most recent AI progresses with a focus on medical-related works" (persian talk)  
 [[video]](https://youtu.be/_bytJDC1wr0?si=ZtFHAipwo83D40po) [[slides]](https://t.me/Sinusealpha_Channel/381)
-- oct 2023, "a brief and simplified introduction to transformers and their application in healthcare" (persian journal club)
+- oct 2023, "a brief and simplified introduction to transformers and their application in healthcare" (persian journal club)  
 [[video]](https://youtu.be/qkzDr-O1f70?si=CQtxkNGP-hrpO-se) [[slides]](https://t.me/Sinusealpha_Channel/280)
-- sep 2023, "introduction to uncertainty quantification in radiological images" (persian journal club)
+- sep 2023, "introduction to uncertainty quantification in radiological images" (persian journal club)  
 [[video]](https://youtu.be/h7exzh57kPM?si=UK1yfFhItidT-6SY) [[slides]](https://t.me/Sinusealpha_Channel/278)
-- jul 2023, "introduction to telemedicine and telehealth for medical students" (persian journal club)
+- jul 2023, "introduction to telemedicine and telehealth for medical students" (persian journal club)  
 [[video]](https://youtu.be/v6qWR03x_TE?si=-3IqabxCi3mhvyEJ) [[slides]](https://t.me/Sinusealpha_Channel/229)
 
 
