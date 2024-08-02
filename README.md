@@ -70,14 +70,15 @@ i write a lot! about what i think and what i've experienced. both in persian and
 
 
 ## bookshelf
-many people ask me about the books i read. i talked about some of them in the first season of [30D podcast](https://t.me/Podcast30D) and here, as a digital bookshelf, i'm gonna write about the books i read. especially about the ones that i think are valuable for others. i will link any of them to [a telegram channel](https://t.me/sinusealpha_library) where i write notes on them. i'm also trying to update this list as frequently as possible.
-### what i'm reading now:
+many people ask me about the books i read. i talked about some of them in the first season of [30D podcast](https://t.me/Podcast30D) and here, as a digital bookshelf, i'm gonna list the books i read. especially about the ones that i think are valuable for others. i'm also trying to update this list as frequently as possible.
+
+#### what i'm reading now:
 - confessions, Rousseau
 - the intelligent investor, benjamin graham
 - the beginning of infinity, david deutsch
 - 
 
-### what i've read:
+#### what i've read:
 - the ride of a lifetime, robert iger
 - creativity inc., edwin catmull
 - 
