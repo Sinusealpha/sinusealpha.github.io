@@ -74,12 +74,11 @@ many people ask me about the books i read. i talked about some of them in the fi
 
 #### what i'm reading now:
 - confessions, Rousseau
+- an enquiry concerning human understanding, david hume
 - the intelligent investor, benjamin graham
-- the beginning of infinity, david deutsch
-- 
 
-#### what i've read:
+#### what i've read recently:
 - the ride of a lifetime, robert iger
 - creativity inc., edwin catmull
+- the beginning of infinity, david deutsch
 - 
-
