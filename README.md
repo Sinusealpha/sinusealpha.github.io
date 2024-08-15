@@ -21,7 +21,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 
 ## featured talks and presentations
 
-- aug 2024, "recent progresses of artificial intelligence in healthcare" (persian talk)
+- aug 2024, "recent progresses of artificial intelligence in healthcare" (persian talk)  
 [[video]](), [[slides]]()
 - mar 2024, "networking and linkedIn for healthcare students and professionals" (persian talk)  
 [[audio]](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view) [[slides]](https://t.me/Sinusealpha_Channel/385)
