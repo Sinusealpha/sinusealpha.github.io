@@ -7,7 +7,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 
 
 ## featured projects
-- MedX (an open source media platform for med people to explore, learn, and contribute in the health-tech world) / launching soon, stay tuned! :)  
+- MedX (an open source media platform for med people to explore, learn, and contribute in the health-tech world) / launching soon!  
 [[website]](http://medxmedia.net/) [[github]](https://github.com/Sinusealpha/MedX) [[telegram]](https://t.me/medxmedia_net) [[instagram]](https://www.instagram.com/medxmedia_net) [[twitter]](https://x.com/medxmedia_net) [[linkedin]](https://www.linkedin.com/company/medxstartup)
 - the intelligent investor book reading group (a playlist on youtube) / continuing.  
 [[link]](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U)
