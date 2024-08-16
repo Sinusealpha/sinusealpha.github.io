@@ -1,13 +1,13 @@
 
 ## about
-i'm sina. curious 22 yo from tehran, iran. founder and executive member at [MedX](http://medxmedia.net/), a 4th-year medical student, and a mba graduate. i 24/7 follow my curiosities!
+i'm sina. curious 22 yo from tehran, iran. founder and executive member at [MedX]([http://medxmedia.net/](https://sinusealpha.github.io/MedX/)), a 4th-year medical student, and a mba graduate. i 24/7 follow my curiosities!
 i'm interested in startups, design, coding, math, and humans.
 i love building, reading books, and writing.
 you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha), contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com), or [book a free 30 min meeting](https://calendly.com/sinusealpha/30minmeeting) to discuss about potential collaborations or anything i can help you with.
 
 
 ## featured projects
-- MedX (an open source media platform for med people to explore, learn, and contribute in the health-tech world) / launching soon!  
+- MedX (an open-source media platform for medical people to explore, learn, and contribute to the health-tech world) / launching soon!  
 [[website]](http://medxmedia.net/) [[github]](https://github.com/Sinusealpha/MedX) [[telegram]](https://t.me/medxmedia_net) [[instagram]](https://www.instagram.com/medxmedia_net) [[twitter]](https://x.com/medxmedia_net) [[linkedin]](https://www.linkedin.com/company/medxstartup)
 - the intelligent investor book reading group (a playlist on youtube) / continuing.  
 [[link]](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U)
