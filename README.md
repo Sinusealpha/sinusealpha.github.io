@@ -21,13 +21,13 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 
 ## featured talks and presentations
 
-- aug 2024, "the most recent AI progresses with a focus on pharmacy-related works" (persian talk)  
+- aug 2024, "the most recent ai progresses with a focus on pharmacy-related works" (persian talk)  
 [[video]](), [[slides]]()
-- aug 2024, "the most recent AI progresses with a focus on medical-related works" (persian talk)  
+- aug 2024, "the most recent ai progresses with a focus on medical-related works" (persian talk)  
 [[video]](), [[slides]](https://t.me/Sinusealpha_Channel/455)
-- mar 2024, "networking and linkedIn for healthcare students and professionals" (persian talk)  
+- mar 2024, "networking and linkedin for healthcare students and professionals" (persian talk)  
 [[audio]](https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view) [[slides]](https://t.me/Sinusealpha_Channel/385)
-- mar 2024, "the most recent AI progresses with a focus on medical-related works" (persian talk)  
+- mar 2024, "the most recent ai progresses with a focus on medical-related works" (persian talk)  
 [[video]](https://youtu.be/_bytJDC1wr0?si=ZtFHAipwo83D40po) [[slides]](https://t.me/Sinusealpha_Channel/381)
 - oct 2023, "a brief and simplified introduction to transformers and their application in healthcare" (persian journal club)  
 [[video]](https://youtu.be/qkzDr-O1f70?si=CQtxkNGP-hrpO-se) [[slides]](https://t.me/Sinusealpha_Channel/280)
