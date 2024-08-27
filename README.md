@@ -41,6 +41,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 i write a lot! about what i think and what i've experienced. both in persian and in English. you can read some of my writings by clicking on the following links.
 
 **[substack (english)](https://sinamoradi.substack.com/)** i routinely write here! :)
+- jul 25, 2024 - [never start with a team.](https://sinamoradi.substack.com/p/never-start-with-a-team)
 - jun 19, 2024 - ["you are good for your age"](https://sinamoradi.substack.com/p/you-are-good-for-your-age)
 - may 31, 2024 - [a moon or a candle?](https://sinamoradi.substack.com/p/a-moon-or-a-candle)
 - apr 17, 2024 - [The best advice i heard about university!](https://sinamoradi.substack.com/p/the-best-advice-i-heard-about-university)
@@ -77,10 +78,10 @@ many people ask me about the books i read. i talked about some of them in the fi
 
 #### what i'm reading now:
 - confessions, Rousseau
-- an enquiry concerning human understanding, david hume
 - the intelligent investor, benjamin graham
 
 #### what i've read recently:
+- an enquiry concerning human understanding, david hume
 - the ride of a lifetime, robert iger
 - creativity inc., edwin catmull
 - the beginning of infinity, david deutsch
