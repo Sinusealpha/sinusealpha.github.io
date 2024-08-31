@@ -8,7 +8,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 
 ## featured projects
 - MedX (an open-source media platform for medical people to explore, learn, and contribute to the health-tech world) / launching soon!  
-[[website]](http://medxmedia.net/) [[github]](https://github.com/MedX-Media) [[telegram]](https://t.me/medxmedia_net) [[instagram]](https://www.instagram.com/medxmedia_net) [[twitter]](https://x.com/medxmedia_net) [[linkedin]](https://www.linkedin.com/company/medxstartup) [[inside medx. newsletter]](https://medxmedia.substack.com/)
+[[website]](http://medxmedia.net/) [[github]](https://github.com/MedX-Media) [[telegram]](https://t.me/medxmedia_net) [[instagram]](https://www.instagram.com/medxmedia_net) [[twitter]](https://x.com/medxmedia_net) [[linkedin]](https://www.linkedin.com/company/medxstartup) [[inside medx.]](https://medxmedia.substack.com/)
 - the intelligent investor book reading group (a playlist on youtube) / continuing.  
 [[link]](https://www.youtube.com/playlist?list=PL_ncJzi2Tlh4s-YPzeJbLPIcGU2AqyD2U)
 - 30D podcast (a podcast to introduce the most valuable books on design and innovation (first season)) / +3k listens  
