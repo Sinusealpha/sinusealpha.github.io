@@ -75,6 +75,7 @@ i write a lot! about what i think and what i've experienced. both in persian and
 many people ask me about the books i read. i talked about some of them in the first season of [30D podcast](https://t.me/Podcast30D) and here, as a digital bookshelf, i'm gonna list the books i read. especially about the ones that i think are valuable for others. i'm also trying to update this list as frequently as possible.
 
 #### what i'm reading now:
+- an enquiry concerning the principles of morals, david hume
 - proofs and refutations, imre lakatos
 - confessions, Rousseau
 - the intelligent investor, benjamin graham
