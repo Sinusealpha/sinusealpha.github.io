@@ -34,7 +34,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 
 
 ## featured writings
-i write a lot! about what i think and what i've experienced. both in persian and in English. you can read some of my writings by clicking on the following links.
+i write a lot! :) about what i think and what i've experienced. both in persian and in english. you can read some of my writings by clicking on the following links.
 
 **[substack (english)](https://sinamoradi.substack.com/)** i routinely write here! :)
 - jul 25, 2024 - [never start with a team.](https://sinamoradi.substack.com/p/never-start-with-a-team)
