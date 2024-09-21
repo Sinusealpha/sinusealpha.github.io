@@ -13,7 +13,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 [[castbox]](https://castbox.fm/ch/5734464) [[telegram]](https://t.me/Podcast30D) [[instagram]](https://www.instagram.com/podcast30d/) [[virgool]](https://virgool.io/@podcast30d)
 - simple thoracentesis analyzer (a program for physicians)  
 [[code]](https://github.com/Sinusealpha/PleuralEffusionProject)
-- sina moradi's notes (a linkedin newsletter on entrepreneurship) / +1.5k subs, +6.5k reads  
+- notes (a linkedin newsletter on entrepreneurship) / +1.5k subs, +6.5k reads  
 [[link]](https://www.linkedin.com/newsletters/7046112972418510848/) [[blog]](https://medium.com/@Sinusealpha/how-i-built-a-1k-subscribers-newsletter-in-a-month-and-what-i-learned-along-the-way-a-real-story-4636cdef7f55)
   
 
