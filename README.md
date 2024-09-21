@@ -83,4 +83,3 @@ many people ask me about the books i read. i talked about some of them in the fi
 - the ride of a lifetime, robert iger (july 2024)
 - creativity inc., edwin catmull (April 2024)
 - the beginning of infinity, david deutsch (jan 2024 - march 2024)
-- 
