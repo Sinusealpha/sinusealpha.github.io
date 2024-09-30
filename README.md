@@ -9,7 +9,7 @@ you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linked
 ## featured projects
 - MedX (an open-source media platform for med people to explore, learn, and contribute to the world of health-tech)  
 [[website]](http://medxmedia.net/) [[github]](https://github.com/MedX-Media) [[telegram]](https://t.me/medxmedia_net) [[instagram]](https://www.instagram.com/medxmedia_net) [[twitter]](https://x.com/medxmedia_net) [[linkedin]](https://www.linkedin.com/company/medxstartup)  
-      sub-projects:
+      sub-projects:  
             - [inside medx. newsletter](https://medxmedia.substack.com/): monthly reports of medx.  
             - [MedX CodeLab](https://github.com/MedX-Media/CodeLab): collaboratively implementing (medical) ai papers.  
 - 30D podcast (a podcast to introduce the most valuable books on design and innovation (first season)) / +3k listens  
