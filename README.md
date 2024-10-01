@@ -1,6 +1,6 @@
 
 ## about
-i'm sina. curious 22yo from tehran, iran. founding contributer at [MedX](https://github.com/Sinusealpha/MedX), a 4th-year medical student, and a mba graduate. i 24/7 follow my curiosities!
+i'm sina. curious 22yo from tehran, iran. founding contributor at [MedX](https://github.com/Sinusealpha/MedX), a 4th-year medical student, and a mba graduate. i 24/7 follow my curiosities!
 i'm interested in startups, design, coding, math, and humans.
 i love building, reading books, and writing.
 you can find me on [x (formerly twitter)](https://x.com/sinamoradi2002), [linkedin](https://www.linkedin.com/in/sinusealpha/), [telegram](https://t.me/Sinusealpha_Channel), and [youtube](https://www.youtube.com/@Sinusealpha), contact me directly at [sina80mor@gmail.com](sina80mor@gmail.com) to discuss about potential collaborations or anything i can help you with.
