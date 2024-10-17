@@ -76,13 +76,14 @@ i write a lot! :) about what i think and what i've experienced. both in persian 
 many people ask me about the books i read. i talked about some of them in the first season of [30D podcast](https://t.me/Podcast30D) and here, as a digital bookshelf, i'm gonna list the books i read. especially about the ones that i think are valuable for others. i'm also trying to update this list as frequently as possible.
 
 #### what i'm reading now (date):
-- an enquiry concerning the principles of morals, david hume (September 2024 - now)
-- confessions, Rousseau (august 2024 - now)
-- the intelligent investor, benjamin graham (july 2024 - now)
+- an enquiry concerning the principles of morals, david hume (september 2024 - now)
+- confessions, rousseau (august 2024 - now)
 
 #### what i've read recently (date):
-- proofs and refutations, imre lakatos (September 2024)
+- discourse on the origin and basis of inequality among men, rousseau (17 october 2024)
+- the intelligent investor, benjamin graham (july 2024 - october 2024)
+- proofs and refutations, imre lakatos (september 2024)
 - an enquiry concerning human understanding, david hume (july 2024)
 - the ride of a lifetime, robert iger (july 2024)
-- creativity inc., edwin catmull (April 2024)
+- creativity inc., edwin catmull (april 2024)
 - the beginning of infinity, david deutsch (jan 2024 - march 2024)
