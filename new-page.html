@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sina Moradi</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap');
+        
+        :root {
+            --bg-color: #1e1e1e; /* Dark mode default */
+            --text-color: #e0e0e0;
+            --link-color: #569cd6;
+            --link-bg: #2d2d2d;
+            --link-hover: #3d3d3d;
+            --divider-color: #444;
+        }
+        
+        [data-theme="light"] {
+            --bg-color: #f0f0f0;
+            --text-color: #222;
+            --link-color: #2563eb;
+            --link-bg: #e0e0e0;
+            --link-hover: #d0d0d0;
+            --divider-color: #ddd;
+        }
+        
+        body {
+            font-family: 'Roboto Mono', monospace;
+            font-weight: 400;
+            -webkit-font-smoothing: antialiased;
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.5;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            transition: all 0.3s ease;
+        }
+        
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 0.2rem 0.4rem;
+            background-color: var(--link-bg);
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            margin: 0 0.1rem;
+            display: inline-block;
+        }
+        
+        a:hover {
+            background-color: var(--link-hover);
+            text-decoration: none;
+        }
+        
+        h1 {
+            font-size: 1.6rem;
+            margin: 2rem 0 0.5rem;
+            font-weight: 600;
+            position: relative;
+        }
+        
+        h1::after {
+            content: "";
+            display: block;
+            height: 1px;
+            background-color: var(--divider-color);
+            margin-top: 0.5rem;
+        }
+        
+        h2 {
+            font-size: 1.2rem;
+            margin: 1.8rem 0 0.5rem;
+            font-weight: 500;
+        }
+        
+        .content-block {
+            margin: 1rem 0;
+        }
+        
+        .content-line {
+            margin-bottom: 0.5rem;
+            white-space: pre-wrap;
+        }
+        
+        .theme-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            padding: 0.5rem 1rem;
+            font-family: 'Roboto Mono', monospace;
+            background: var(--link-bg);
+            color: var(--text-color);
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            z-index: 100;
+        }
+    </style>
+</head>
+<body>
+
+<button class="theme-toggle" onclick="toggleTheme()">Light Mode</button>
+
+<h1>about</h1>
+
+<h2>tldr:</h2>
+<div class="content-block">
+    <div class="content-line">- 23 years old, coding since 14.</div>
+    <div class="content-line">- 5th-year medical student (abzums).</div>
+    <div class="content-line">- health mba graduate 23' (sbmu).</div>
+    <div class="content-line">- former math teacher (for ~4 years) at high-schools.</div>
+    <div class="content-line">- like math, design, philosophy, & to build.</div>
+    <div class="content-line">- contact me at <a href="mailto:sina80mor@gmail.com">sina80mor@gmail.com</a></div>
+</div>
+
+<h2>what i'm working on:</h2>
+<div class="content-block">
+    <div class="content-line">- machine/deep learning research with a focus on healthcare problems.</div>
+    <div class="content-line">- <a href="#MEDX_URL#">medx</a> (founding contributor), largest persian health-tech community with +2k subs and +40 contributors.</div>
+    <div class="content-line">- <a href="#ABZUMS_AI_URL#">abzums ai</a> (founding instructor), first fundamental and long-term program designed to teach university-level math and programming to healthcare students.</div>
+</div>
+
+<h2>what i've built:</h2>
+<div class="content-block">
+    <div class="content-line">- a +4k listens podcast called "<a href="#PODCAST_URL#">30d</a>" on startup/design books.</div>
+    <div class="content-line">- a +1.5k subs (+7k reads) linkedin newsletter called "<a href="#NEWSLETTER_URL#">sina moradi's notes</a>" on startup concepts.</div>
+    <div class="content-line">- a simple thoracentesis analyzer (<a href="#THORACENTESIS_REPO#">repo</a>) using python/tkinter.</div>
+</div>
+
+<h1>writings</h1>
+
+<h2>recommended:</h2>
+<div class="content-block">
+    <div class="content-line">- 20 lessons i learned in my <a href="#LESSONS_22_URL#">22</a>, <a href="#LESSONS_23_URL#">23</a>.</div>
+    <div class="content-line">- never start with a team. | <a href="#TEAM_ARTICLE_URL#">link</a></div>
+    <div class="content-line">- you shouldn't let everything to make you happy. | <a href="#HAPPINESS_ARTICLE_URL#">link</a></div>
+</div>
+
+<h2>where i write?</h2>
+<div class="content-block">
+    <div class="content-line">- <a href="#SUBSTACK_URL#">substack</a>, for long english blogs.</div>
+    <div class="content-line">- <a href="#TWITTER_URL#">twitter</a>, for short english notes.</div>
+    <div class="content-line">- <a href="#VIRGOOL_URL#">virgool</a>, for long persian blogs.</div>
+    <div class="content-line">- <a href="#TELEGRAM_URL#">telegram</a>, for short telegram notes and sharings.</div>
+</div>
+
+<h1>talks, presentations & podcasts (highlight)</h1>
+<div class="content-block">
+    <div class="content-line">- 3rd epsiode of medintell podcast. | <a href="#PODCAST_EP3_URL#">link</a> (persian conversation)</div>
+    <div class="content-line">- "integrating imaging informatics" at 4th medx monthly meeting (persian talk) <a href="#IMAGING_VIDEO_URL#">video</a>, <a href="#IMAGING_SLIDES_URL#">slides</a></div>
+    <div class="content-line">- "the most recent ai progress with a focus on medical-related works" (persian talk) <a href="#AI_VIDEO_URL#">video</a>, <a href="#AI_SLIDES_URL#">slides</a></div>
+    <div class="content-line">- "networking and linkedin for healthcare students and professionals" (persian talk) <a href="#NETWORKING_AUDIO_URL#">audio</a>, <a href="#NETWORKING_SLIDES_URL#">slides</a></div>
+</div>
+
+<script>
+    // Set dark mode as default
+    document.documentElement.setAttribute('data-theme', 'dark');
+    localStorage.setItem('theme', 'dark');
+    
+    function toggleTheme() {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        if (currentTheme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            document.querySelector('.theme-toggle').textContent = 'Dark Mode';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            document.querySelector('.theme-toggle').textContent = 'Light Mode';
+        }
+    }
+
+    // Check for saved theme preference
+    if (localStorage.getItem('theme') === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+        document.querySelector('.theme-toggle').textContent = 'Dark Mode';
+    }
+</script>
+
+</body>
+</html>
