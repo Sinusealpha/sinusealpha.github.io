@@ -27,7 +27,7 @@
             font-family: 'Roboto Mono', monospace;
             font-weight: 400;
             -webkit-font-smoothing: antialiased;
-            max-width: 680px;
+            max-width: 800px; /* Increased from 680px */
             margin: 0 auto;
             padding: 2rem;
             line-height: 1.5;
@@ -58,6 +58,10 @@
             margin: 2rem 0 0.5rem;
             font-weight: 600;
             position: relative;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: nowrap;
         }
         
         h1::after {
@@ -66,6 +70,52 @@
             height: 1px;
             background-color: var(--divider-color);
             margin-top: 0.5rem;
+            position: absolute;
+            bottom: -0.5rem;
+            width: 100%;
+        }
+        
+        .name {
+            white-space: nowrap;
+            margin-right: 2rem;
+        }
+        
+        .header-links {
+            font-weight: 400;
+            font-size: 0.9em;
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            flex-wrap: nowrap;
+        }
+        
+        .header-links a {
+            background: none;
+            padding: 0;
+            color: var(--text-color);
+            opacity: 0.8;
+            font-weight: 400;
+            text-transform: lowercase;
+            white-space: nowrap;
+        }
+        
+        .header-links a:hover {
+            opacity: 1;
+            text-decoration: underline;
+            background: none;
+        }
+        
+        .theme-toggle {
+            padding: 0.3rem 0.8rem;
+            font-family: 'Roboto Mono', monospace;
+            background: var(--link-bg);
+            color: var(--text-color);
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.8em;
+            font-weight: 400;
+            white-space: nowrap;
         }
         
         h2 {
@@ -82,27 +132,19 @@
             margin-bottom: 0.5rem;
             white-space: pre-wrap;
         }
-        
-        .theme-toggle {
-            position: fixed;
-            top: 1rem;
-            right: 1rem;
-            padding: 0.5rem 1rem;
-            font-family: 'Roboto Mono', monospace;
-            background: var(--link-bg);
-            color: var(--text-color);
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            z-index: 100;
-        }
     </style>
 </head>
 <body>
 
-<button class="theme-toggle" onclick="toggleTheme()">Light Mode</button>
-
-<h1>about</h1>
+<h1>
+    <span class="name">sina moradi</span>
+    <span class="header-links">
+        <a href="#cv">cv</a>
+        <a href="https://www.linkedin.com/in/sinusealpha/">linkedin</a>
+        <a href="https://scholar.google.com/citations?user=YOUR_ID">scholar</a>
+        <button class="theme-toggle" onclick="toggleTheme()">Light Mode</button>
+    </span>
+</h1>
 
 <h2>tldr:</h2>
 <div class="content-block">
@@ -117,40 +159,40 @@
 <h2>what i'm working on:</h2>
 <div class="content-block">
     <div class="content-line">- machine/deep learning research with a focus on healthcare problems.</div>
-    <div class="content-line">- <a href="#MEDX_URL#">medx</a> (founding contributor), largest persian health-tech community with +2k subs and +40 contributors.</div>
-    <div class="content-line">- <a href="#ABZUMS_AI_URL#">abzums ai</a> (founding instructor), first fundamental and long-term program designed to teach university-level math and programming to healthcare students.</div>
+    <div class="content-line">- <a href="https://www.linkedin.com/company/medxstartup">medx</a> (founding contributor), largest persian (also independent and open-source) health-tech community with +2k subs and +40 contributors.</div>
+    <div class="content-line">- <a href="https://www.linkedin.com/company/abzums-ai">abzums ai</a> (founding instructor), first fundamental and long-term program designed to teach university-level math and programming to healthcare students.</div>
 </div>
 
 <h2>what i've built:</h2>
 <div class="content-block">
-    <div class="content-line">- a +4k listens podcast called "<a href="#PODCAST_URL#">30d</a>" on startup/design books.</div>
-    <div class="content-line">- a +1.5k subs (+7k reads) linkedin newsletter called "<a href="#NEWSLETTER_URL#">sina moradi's notes</a>" on startup concepts.</div>
-    <div class="content-line">- a simple thoracentesis analyzer (<a href="#THORACENTESIS_REPO#">repo</a>) using python/tkinter.</div>
+    <div class="content-line">- a +4k listens podcast called "<a href="https://castbox.fm/channel/id5734464">30d</a>" on startup/design books.</div>
+    <div class="content-line">- a +1.5k subs (+7k reads) linkedin newsletter called "<a href="https://www.linkedin.com/newsletters/7046112972418510848/">sina moradi's notes</a>" on startup concepts.</div>
+    <div class="content-line">- a simple thoracentesis analyzer (<a href="https://github.com/Sinusealpha/PleuralEffusionProject">repo</a>) using python/tkinter.</div>
 </div>
 
 <h1>writings</h1>
 
 <h2>recommended:</h2>
 <div class="content-block">
-    <div class="content-line">- 20 lessons i learned in my <a href="#LESSONS_22_URL#">22</a>, <a href="#LESSONS_23_URL#">23</a>.</div>
+    <div class="content-line">- 20 lessons i learned in my <a href="https://sinamoradi.substack.com/p/20-lessons-i-learned-in-my-22">22</a>, <a href="https://sinamoradi.substack.com/p/20-lessons-i-learned-in-my-23">23</a>.</div>
     <div class="content-line">- never start with a team. | <a href="#TEAM_ARTICLE_URL#">link</a></div>
-    <div class="content-line">- you shouldn't let everything to make you happy. | <a href="#HAPPINESS_ARTICLE_URL#">link</a></div>
+    <div class="content-line">- you shouldn't let everything to make you happy. | <a href="https://sinamoradi.substack.com/p/you-shouldnt-let-everything-to-make">link</a></div>
 </div>
 
 <h2>where i write?</h2>
 <div class="content-block">
-    <div class="content-line">- <a href="#SUBSTACK_URL#">substack</a>, for long english blogs.</div>
-    <div class="content-line">- <a href="#TWITTER_URL#">twitter</a>, for short english notes.</div>
-    <div class="content-line">- <a href="#VIRGOOL_URL#">virgool</a>, for long persian blogs.</div>
-    <div class="content-line">- <a href="#TELEGRAM_URL#">telegram</a>, for short telegram notes and sharings.</div>
+    <div class="content-line">- <a href="https://sinamoradi.substack.com/">substack</a>, for long english blogs.</div>
+    <div class="content-line">- <a href="https://x.com/sinamoradi2002">twitter</a>, for short english notes.</div>
+    <div class="content-line">- <a href="https://virgool.io/@sinusealpha">virgool</a>, for long persian blogs.</div>
+    <div class="content-line">- <a href="https://t.me/Sinusealpha_Channel">telegram</a>, for short telegram notes and sharings.</div>
 </div>
 
 <h1>talks, presentations & podcasts (highlight)</h1>
 <div class="content-block">
-    <div class="content-line">- 3rd epsiode of medintell podcast. | <a href="#PODCAST_EP3_URL#">link</a> (persian conversation)</div>
-    <div class="content-line">- "integrating imaging informatics" at 4th medx monthly meeting (persian talk) <a href="#IMAGING_VIDEO_URL#">video</a>, <a href="#IMAGING_SLIDES_URL#">slides</a></div>
-    <div class="content-line">- "the most recent ai progress with a focus on medical-related works" (persian talk) <a href="#AI_VIDEO_URL#">video</a>, <a href="#AI_SLIDES_URL#">slides</a></div>
-    <div class="content-line">- "networking and linkedin for healthcare students and professionals" (persian talk) <a href="#NETWORKING_AUDIO_URL#">audio</a>, <a href="#NETWORKING_SLIDES_URL#">slides</a></div>
+    <div class="content-line">- 3rd epsiode of medintell podcast. (persian conversation) | <a href="#PODCAST_EP3_URL#">link</a></div>
+    <div class="content-line">- "integrating imaging informatics" at 4th medx monthly meeting (persian talk) <a href="https://youtu.be/eKEmwVyhwp8?si=NnQffbT420FaOCrY">video</a>, <a href="https://t.me/Sinusealpha_Channel/488">slides</a></div>
+    <div class="content-line">- "the most recent ai progress with a focus on medical-related works" (persian talk) <a href="https://www.youtube.com/watch?v=p2gDwW3QL0Y&t=29s">video</a>, <a href="https://t.me/Sinusealpha_Channel/455">slides</a></div>
+    <div class="content-line">- "networking and linkedin for healthcare students and professionals" (persian talk) <a href="https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view">audio</a>, <a href="https://t.me/Sinusealpha_Channel/385">slides</a></div>
 </div>
 
 <script>
