@@ -2,11 +2,12 @@
 <html>
 <head>
     <title>Sina Moradi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600&display=swap');
         
         :root {
-            --bg-color: #1e1e1e; /* Dark mode default */
+            --bg-color: #1e1e1e;
             --text-color: #e0e0e0;
             --link-color: #569cd6;
             --link-bg: #2d2d2d;
@@ -27,10 +28,10 @@
             font-family: 'Roboto Mono', monospace;
             font-weight: 400;
             -webkit-font-smoothing: antialiased;
-            max-width: 800px; /* Increased from 680px */
+            max-width: 1000px;
             margin: 0 auto;
-            padding: 2rem;
-            line-height: 1.5;
+            padding: 1.5rem;
+            line-height: 1.4;
             color: var(--text-color);
             background-color: var(--bg-color);
             transition: all 0.3s ease;
@@ -59,9 +60,8 @@
             font-weight: 600;
             position: relative;
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: nowrap;
+            flex-direction: column;
+            gap: 0.5rem;
         }
         
         h1::after {
@@ -75,9 +75,14 @@
             width: 100%;
         }
         
+        h2 {
+            font-size: 1.2rem;
+            margin: 1.8rem 0 0.5rem;
+            font-weight: 600; /* All h2 now equally bold */
+        }
+        
         .name {
-            white-space: nowrap;
-            margin-right: 2rem;
+            font-weight: 600;
         }
         
         .header-links {
@@ -85,8 +90,8 @@
             font-size: 0.9em;
             display: flex;
             align-items: center;
-            gap: 1.5rem;
-            flex-wrap: nowrap;
+            gap: 1rem;
+            flex-wrap: wrap;
         }
         
         .header-links a {
@@ -118,12 +123,6 @@
             white-space: nowrap;
         }
         
-        h2 {
-            font-size: 1.2rem;
-            margin: 1.8rem 0 0.5rem;
-            font-weight: 500;
-        }
-        
         .content-block {
             margin: 1rem 0;
         }
@@ -131,6 +130,30 @@
         .content-line {
             margin-bottom: 0.5rem;
             white-space: pre-wrap;
+        }
+
+        /* Responsive adjustments */
+        @media (min-width: 600px) {
+            h1 {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .header-links {
+                gap: 1.5rem;
+            }
+            body {
+                padding: 2rem;
+            }
+        }
+
+        @media (max-width: 400px) {
+            .header-links {
+                gap: 0.8rem;
+            }
+            .theme-toggle {
+                padding: 0.3rem 0.6rem;
+            }
         }
     </style>
 </head>
@@ -140,7 +163,7 @@
     <span class="name">sina moradi</span>
     <span class="header-links">
         <a href="#cv">cv</a>
-        <a href="https://www.linkedin.com/in/sinusealpha/">linkedin</a>
+        <a href="https://www.linkedin.com/in/yourprofile">linkedin</a>
         <a href="https://scholar.google.com/citations?user=YOUR_ID">scholar</a>
         <button class="theme-toggle" onclick="toggleTheme()">Light Mode</button>
     </span>
@@ -159,8 +182,8 @@
 <h2>what i'm working on:</h2>
 <div class="content-block">
     <div class="content-line">- machine/deep learning research with a focus on healthcare problems.</div>
-    <div class="content-line">- <a href="https://www.linkedin.com/company/medxstartup">medx</a> (founding contributor), largest persian (also independent and open-source) health-tech community with +2k subs and +40 contributors.</div>
-    <div class="content-line">- <a href="https://www.linkedin.com/company/abzums-ai">abzums ai</a> (founding instructor), first fundamental and long-term program designed to teach university-level math and programming to healthcare students.</div>
+    <div class="content-line">- <a href="https://www.linkedin.com/company/medxstartup">medx</a> (as a founding contributor), largest persian health-tech community that is opensource and independent with +2k subs and +40 contributors.</div>
+    <div class="content-line">- <a href="https://www.linkedin.com/company/abzums-ai">abzums ai</a> (as a founding instructor), first fundamental and long-term program designed to teach university-level math and programming to healthcare students.</div>
 </div>
 
 <h2>what i've built:</h2>
@@ -181,18 +204,18 @@
 
 <h2>where i write?</h2>
 <div class="content-block">
-    <div class="content-line">- <a href="https://sinamoradi.substack.com/">substack</a>, for long english blogs.</div>
-    <div class="content-line">- <a href="https://x.com/sinamoradi2002">twitter</a>, for short english notes.</div>
-    <div class="content-line">- <a href="https://virgool.io/@sinusealpha">virgool</a>, for long persian blogs.</div>
-    <div class="content-line">- <a href="https://t.me/Sinusealpha_Channel">telegram</a>, for short telegram notes and sharings.</div>
+    <div class="content-line">- <a href="https://sinamoradi.substack.com/">substack</a>: long english blogs.</div>
+    <div class="content-line">- <a href="https://x.com/sinamoradi2002">twitter</a>: short english notes.</div>
+    <div class="content-line">- <a href="https://virgool.io/@sinusealpha">virgool</a>: long persian blogs.</div>
+    <div class="content-line">- <a href="https://t.me/Sinusealpha_Channel">telegram</a>: short telegram notes and sharings.</div>
 </div>
 
 <h1>talks, presentations & podcasts (highlight)</h1>
 <div class="content-block">
     <div class="content-line">- 3rd epsiode of medintell podcast. (persian conversation) | <a href="#PODCAST_EP3_URL#">link</a></div>
-    <div class="content-line">- "integrating imaging informatics" at 4th medx monthly meeting (persian talk) <a href="https://youtu.be/eKEmwVyhwp8?si=NnQffbT420FaOCrY">video</a>, <a href="https://t.me/Sinusealpha_Channel/488">slides</a></div>
-    <div class="content-line">- "the most recent ai progress with a focus on medical-related works" (persian talk) <a href="https://www.youtube.com/watch?v=p2gDwW3QL0Y&t=29s">video</a>, <a href="https://t.me/Sinusealpha_Channel/455">slides</a></div>
-    <div class="content-line">- "networking and linkedin for healthcare students and professionals" (persian talk) <a href="https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view">audio</a>, <a href="https://t.me/Sinusealpha_Channel/385">slides</a></div>
+    <div class="content-line">- "integrating imaging informatics" at 4th medx monthly meeting (persian talk) | <a href="https://youtu.be/eKEmwVyhwp8?si=NnQffbT420FaOCrY">video</a>, <a href="https://t.me/Sinusealpha_Channel/488">slides</a></div>
+    <div class="content-line">- "the most recent ai progress with a focus on medical-related works" (persian talk) | <a href="https://www.youtube.com/watch?v=p2gDwW3QL0Y&t=29s">video</a>, <a href="https://t.me/Sinusealpha_Channel/455">slides</a></div>
+    <div class="content-line">- "networking and linkedin for healthcare students and professionals" (persian talk) | <a href="https://drive.google.com/file/d/18Fts3nHy0INM51fKACVQawzqNUGsEPzG/view">audio</a>, <a href="https://t.me/Sinusealpha_Channel/385">slides</a></div>
 </div>
 
 <script>
